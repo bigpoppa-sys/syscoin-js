@@ -1,6 +1,6 @@
 # syscoin-js
 
-A javascript library for interacting directly with the Syscoin RPC Server. Provides 1:1 mappings for all RPC endpoints. For full endpoint list see (https://github.com/syscoin/syscoin-js/blob/sys4/src/RPCServiceFunctions.ts)[RPCFunctions.ts]. Built for NodeJS or for browser.
+A javascript library for interacting directly with the Syscoin RPC Server. Provides 1:1 mappings for all RPC endpoints. For full endpoint list see [RPCFunctions.ts](https://github.com/syscoin/syscoin-js/blob/sys4/src/RPCServiceFunctions.ts). Built for NodeJS or for browser.
 
 ## Installation
 
